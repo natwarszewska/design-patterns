@@ -1,6 +1,7 @@
 package patterns.creational.singleton;
 
 import org.testng.annotations.Test;
+import patterns.creational.singleton.impl.*;
 
 import static org.testng.Assert.assertEquals;
 import static org.testng.Assert.assertTrue;
