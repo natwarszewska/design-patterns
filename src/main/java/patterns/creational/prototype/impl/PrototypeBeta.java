@@ -1,12 +1,12 @@
-package patterns.creational.prototype;
+package patterns.creational.prototype.impl;
 
-public class PrototypeAlpha implements Prototype {
+public class PrototypeBeta implements Prototype {
 
-    private String name = "AlphaVersion";
+    private String name = "BetaVersion";
 
     @Override
     public Prototype clone() {
-        return new PrototypeAlpha();
+        return new PrototypeBeta();
     }
 
     @Override

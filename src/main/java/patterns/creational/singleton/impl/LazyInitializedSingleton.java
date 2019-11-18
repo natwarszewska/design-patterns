@@ -1,4 +1,4 @@
-package patterns.creational.singleton;
+package patterns.creational.singleton.impl;
 
 /**
  * Lazy initialization method to implement Singleton pattern creates the instance in the global access method.

@@ -1,8 +1,10 @@
 package patterns.creational.singleton;
 
+import patterns.creational.singleton.impl.SerializedSingleton;
+
 import java.io.*;
 
-public class SingletonSerializedTest {
+public class SingletonSerializedApp {
 
     public static void main(String[] args) throws FileNotFoundException, IOException, ClassNotFoundException {
         SerializedSingleton instanceOne = SerializedSingleton.getInstance();

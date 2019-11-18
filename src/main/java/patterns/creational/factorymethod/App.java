@@ -4,7 +4,7 @@ import patterns.creational.factorymethod.beans.Computer;
 import patterns.creational.factorymethod.factory.ComputerFactory;
 import patterns.creational.factorymethod.factory.ComputerType;
 
-public class ComputerClient {
+public class App {
 
 
     public static void main(String[] args) {

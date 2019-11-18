@@ -1,9 +1,11 @@
 package patterns.creational.prototype;
 
+import patterns.creational.prototype.impl.*;
+
 import java.util.ArrayList;
 import java.util.List;
 
-public class PrototypeDemo {
+public class App {
 
     public static void main(String[] args) {
 

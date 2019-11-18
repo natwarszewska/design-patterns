@@ -1,6 +1,6 @@
-package patterns.creational.prototype;
+package patterns.creational.prototype.impl;
 
-interface Prototype {
+public interface Prototype {
 
     Prototype clone();
     String getName();

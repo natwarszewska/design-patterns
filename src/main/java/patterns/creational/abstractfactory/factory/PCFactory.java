@@ -1,4 +1,4 @@
-package patterns.creational.abstractfactory.abstractfactory;
+package patterns.creational.abstractfactory.factory;
 
 import patterns.creational.abstractfactory.beans.PC;
 import patterns.creational.abstractfactory.beans.Computer;

@@ -1,4 +1,4 @@
-package patterns.creational.singleton;
+package patterns.creational.singleton.impl;
 
 /**
  * The easier way to create a thread-safe singleton class is to make the global access method synchronized,

@@ -1,4 +1,4 @@
-package patterns.creational.singleton;
+package patterns.creational.singleton.impl;
 
 /**
  * Static block initialization implementation is similar to eager initialization, except that instance of class

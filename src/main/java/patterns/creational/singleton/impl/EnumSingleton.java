@@ -1,4 +1,4 @@
-package patterns.creational.singleton;
+package patterns.creational.singleton.impl;
 
 /**
  * To overcome situation with Reflection, Joshua Bloch suggests the use of Enum to implement Singleton design

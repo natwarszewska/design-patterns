@@ -1,4 +1,4 @@
-package patterns.creational.singleton;
+package patterns.creational.singleton.impl;
 
 /**
  * Prior to Java 5, java memory model had a lot of issues and the above approaches used to fail in certain scenarios

@@ -1,12 +1,14 @@
 package patterns.creational.singleton;
 
+import patterns.creational.singleton.impl.EagerInitializedSingleton;
+
 import java.lang.reflect.Constructor;
 
 /**
  * notice that hashCode of both the instances is not same that destroys the singleton pattern.
  * Reflection is very powerful and used in a lot of frameworks like Spring and Hibernate.
  */
-public class ReflectionSingletonTest {
+public class ReflectionSingletonApp {
 
     public static void main(String[] args) {
         EagerInitializedSingleton instanceOne = EagerInitializedSingleton.getInstance();

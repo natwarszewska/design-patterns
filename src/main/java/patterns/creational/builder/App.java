@@ -1,6 +1,9 @@
 package patterns.creational.builder;
 
-public class ComputerClient {
+import patterns.creational.builder.impl.Computer;
+import patterns.creational.builder.impl.ComputerBuilderDirector;
+
+public class App {
 
     public static void main(String[] args) {
 

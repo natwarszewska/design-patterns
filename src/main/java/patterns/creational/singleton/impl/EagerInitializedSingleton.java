@@ -1,4 +1,4 @@
-package patterns.creational.singleton;
+package patterns.creational.singleton.impl;
 
 /**
  * In eager initialization, the instance of Singleton Class is created at the time of class loading,
